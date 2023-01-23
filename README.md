@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gegarciaar
-- 👀 I’m interested in software development and architecture 
+- 👀 I lead large software development teams. I’m interested in software development and architecture 
 - 🌱 I’m currently learning... Rust!
 - 💞️ I’m looking to collaborate on architecture projects
 - 📫 You can reach me at gegarciaar@gmail.com
